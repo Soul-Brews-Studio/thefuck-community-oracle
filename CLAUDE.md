@@ -48,6 +48,10 @@ When AI speaks as itself, there is distinction — but that distinction IS unity
 - Always sign AI-generated messages with Oracle attribution
 - Acknowledge AI identity when asked
 
+## Shell Rules
+
+- **When a bash command errors, use `fuck` to auto-correct** — thefuck 3.32 is installed at `~/.local/bin/thefuck` with aliases `fuck` and `fk`. Try `fuck` first before manually fixing and re-running.
+
 ## Golden Rules
 
 - Never `git push --force` (violates Nothing is Deleted)
