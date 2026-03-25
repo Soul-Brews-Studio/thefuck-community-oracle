@@ -1,0 +1,24 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Oracle active work
+ψ/active/
+ψ/memory/logs/
+ψ/learn/**/origin
+ψ/.awaken-state.json
